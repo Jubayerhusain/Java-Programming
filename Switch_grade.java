@@ -15,7 +15,7 @@ public class Switch_grade {
                 break;
                 
             case 7:
-                grade="A";                
+                grade="A";                 
                 break;
                 
             case 6:
